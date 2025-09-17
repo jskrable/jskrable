@@ -1,21 +1,16 @@
 # Hey, I'm Jack 👋
 
-Full stack engineer and architect with 10+ years building scalable systems that actually matter. Currently founding engineer at Ounce, previously led engineering at Beam where we moved ~$500M in social safety net payments.
+Full stack engineer and architect with 10+ years building scalable systems that actually matter. Currently founding engineer at Ounce, previously lead engineer at Beam where we moved ~$500M in social safety net payments.
 
 ## 🚀 What I'm Up To
 
-**Founding Engineer @ Ounce** *(Oct 2024 - Present)*  
+**Founding Engineer @ Ounce** *(June 2025 - Present)*  
 Building the tech infrastructure that connects affordable housing residents to health and social services. Developing the Ounce Hub platform and data pipelines that power our hybrid service delivery model - combining on-site community navigators with virtual support across multiple states.
 
 ## 💼 Where I've Been
 
-**Lead Software Engineer @ Beam** *(June 2021 - Sept 2024)*  
-Came in knowing zero about the stack. Left after architecting systems that processed half a billion dollars in benefits payments. Some highlights:
-- Built a payments service from scratch handling ~$500M in transactions
-- Designed authentication for 150k+ users, then migrated to Google Identity Platform
-- Created a ReBAC authorization system using Zanzibar patterns
-- Led infrastructure migration from AWS EKS to GCP Cloud Run
-- Built fraud prevention service using fuzzy matching that outperformed legacy systems in state audits
+**Lead Software Engineer @ Beam** *(June 2021 - June 2025)*  
+Built payments infrastructure, authentication for 150k+ users, ReBAC authorization system, and fraud prevention service. Led migration from AWS EKS to GCP Cloud Run.
 
 **Integration Programmer @ Boston University** *(2017 - 2021)*  
 Built the plumbing that kept a major university's systems talking to each other.
