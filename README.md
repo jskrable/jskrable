@@ -5,7 +5,7 @@ Full stack engineer and architect with 10+ years building scalable systems that 
 ## 🚀 What I'm Up To
 
 **Founding Engineer @ Ounce** *(June 2025 - Present)*  
-Building the tech infrastructure that connects affordable housing residents to health and social services. Developing the Ounce Hub platform and data pipelines that power our hybrid service delivery model - combining on-site community navigators with virtual support across multiple states.
+Building the tech infrastructure that connects affordable housing residents to health and social services. Developing the platform and data pipelines that power our hybrid service delivery model - combining on-site community navigators with virtual support across multiple states.
 
 ## 💼 Where I've Been
 
