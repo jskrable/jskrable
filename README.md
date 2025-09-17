@@ -1,4 +1,4 @@
-# Hey, I'm Jack 👋
+# Hey 👋
 
 Full stack engineer and architect with 10+ years building scalable systems that actually matter. Currently founding engineer at Ounce, previously lead engineer at Beam where we moved ~$500M in social safety net payments.
 
